@@ -5,7 +5,7 @@ x = 0
 while x < sirka:
     y = 0
     while y < vyska:
-        r, g, b = obrazek.getpixel((x,y))
+        r, g, b = obrazek.getpixel((x,y))        #můžete customizovat jak chcete
         prumer = int((r+g+b)/3)
         obrazek.putpixel((x,y), (b , g, r))        
        # if prumer > 150:
