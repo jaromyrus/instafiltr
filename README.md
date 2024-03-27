@@ -1,4 +1,4 @@
-Fotografický editor
+#Fotografický editor
 
 Tento skript umožňuje uživatelům upravovat obrázky pomocí různých filtrů.
 
